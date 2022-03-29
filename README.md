@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/static/v1?logo=Gmail&logoColor=white">
+
 <!--
 **CoffeeShelter/CoffeeShelter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
